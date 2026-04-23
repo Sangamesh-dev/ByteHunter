@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  backend:
+    build: ./backend
+    container_name: bytehunter-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/models:/app/models:ro
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: bytehunter-frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

@@ -1,0 +1,17 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+lightgbm==4.3.0
+xgboost==2.0.3
+scikit-learn==1.4.2
+shap==0.45.0
+lief==0.14.1
+numpy==1.26.4
+pandas==2.2.2
+python-dotenv==1.0.1
+apscheduler==3.10.4
+imbalanced-learn==0.12.2
+joblib==1.4.2
+scipy==1.13.0
+aiosqlite==0.20.0
+reportlab==4.2.0
