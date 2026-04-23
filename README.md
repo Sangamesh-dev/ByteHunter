@@ -10,8 +10,7 @@ ByteHunter is a full-stack cybersecurity tool that analyzes PE (Windows executab
 
 ## Demo
 
-![ByteHunter Demo](https://drive.google.com/file/d/1OWp1ttLhegqNtXeZ25Bgwy7wKv7ZvdFw/view?usp=sharing)
-
+Watch Demo: https://drive.google.com/file/d/1OWp1ttLhegqNtXeZ25Bgwy7wKv7ZvdFw/view?usp=sharing
 ---
 
 ## Features
