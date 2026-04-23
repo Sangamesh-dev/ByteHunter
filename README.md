@@ -230,14 +230,6 @@ LIEF Parser → EMBER 2381-dim feature vector
 
 ---
 
-## Screenshots
-
-| Upload & Scan | Threat Score | SHAP Explanation |
-|---|---|---|
-| ![upload](./docs/screenshots/upload.png) | ![score](./docs/screenshots/score.png) | ![shap](./docs/screenshots/shap.png) |
-
----
-
 ## Roadmap
 
 - [ ] VirusTotal API integration for hash lookup
