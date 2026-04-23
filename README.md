@@ -11,7 +11,7 @@ ByteHunter is a full-stack cybersecurity tool that analyzes PE (Windows executab
 ## Demo
 
 Watch Demo: https://drive.google.com/file/d/1OWp1ttLhegqNtXeZ25Bgwy7wKv7ZvdFw/view?usp=sharing
----
+
 
 ## Features
 
@@ -249,4 +249,4 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 **Sangamesh Girish Dandin**  
 MSc Artificial Intelligence — National College of Ireland  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/sangamesh-girish-dandin-553b45247/) · [GitHub](https://github.com/Sangamesh-dev)
